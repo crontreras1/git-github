@@ -69,3 +69,5 @@ Puedes verla [aquí](/Paquete/).
 # Cambios que hago dentro del curso by Cris
 
 Este es el primer cambio que hago 
+
+Ahora este cambio lo hago desde remoto, es decir, desde github
